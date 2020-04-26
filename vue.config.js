@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/gc/dist/'
+  publicPath: '/calendar/dist/'
 }
