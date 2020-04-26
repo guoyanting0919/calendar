@@ -3,7 +3,7 @@
     <button @click="signIn">signIn</button>
     <button @click="signOut">signOut</button>
     <button @click="postEvent">post</button>
-    <button @click="aa">aa</button>
+    <button @click="aa">axa</button>
     1212
   </div>
 </template>
