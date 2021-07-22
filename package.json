@@ -31,7 +31,7 @@
     "vue-google-oauth2": "^1.4.3",
     "vue-loading-overlay": "^3.3.2",
     "weekstart": "^1.0.1",
-    "xlsx": "^0.15.6"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.3.0",
